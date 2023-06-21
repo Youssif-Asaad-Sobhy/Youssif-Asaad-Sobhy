@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Youssif Asaad Sobhy</h1>
 <h3 align="center">A passionate Backend Developer from Egypt</h3>
 
-<img align="right" alt="Coding" src="www.chawtechsolutions.com/wp-content/uploads/2019/03/programer.gif" >
+<img
+  src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif"
+  alt="Coding"
+  align="right"
+  width="300"
+/>
 
 - 🔭 I’m currently working on [Meeting and Voting Management System](https://github.com/Youssif-Asaad-Sobhy/Meeting-Management-System)
 
@@ -13,7 +18,7 @@
 
 - 📫 How to reach me **youssifasaadfci@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1zkRLC3htLz5oiM-dUieAoCTYqgavHUc8ly_br_VQaeo/edit](https://docs.google.com/document/d/1zkRLC3htLz5oiM-dUieAoCTYqgavHUc8ly_br_VQaeo/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1zkRLC3htLz5oiM-dUieAoCTYqgavHUc8ly_br_VQaeo/edit)
 
 - ⚡ Fun fact **I Love playing Ping Pong.**
 
