@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssif Asaad Sobhy</h1>
 <h3 align="center">A passionate Backend Developer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssif-asaad-sobhy" alt="youssif-asaad-sobhy" /></a> </p>
+<img align="right" alt="Coding" src="www.chawtechsolutions.com/wp-content/uploads/2019/03/programer.gif" >
 
 - 🔭 I’m currently working on [Meeting and Voting Management System](https://github.com/Youssif-Asaad-Sobhy/Meeting-Management-System)
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Asp .NET projects**
 
-- 💬 Ask me about **Problem Solving, C#**
+- 💬 Ask me about **Problem Solving**
 
 - 📫 How to reach me **youssifasaadfci@gmail.com**
 
