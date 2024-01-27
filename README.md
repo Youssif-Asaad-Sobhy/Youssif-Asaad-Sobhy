@@ -8,9 +8,9 @@
   width="300"
 />
 
-- 🔭 I’m currently working on [Meeting and Voting Management System](https://github.com/Youssif-Asaad-Sobhy/Meeting-Management-System)
+- 🔭 I’m currently working on [Medical System](https://github.com/Youssif-Asaad-Sobhy/MedicalSystem)
 
-- 🌱 I’m currently learning **Asp .NET Core**
+- 🌱 I’m currently learning **Asp .NET Core** and **React**
 
 - 👯 I’m looking to collaborate on **Asp .NET projects**
 
