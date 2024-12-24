@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **youssifasaadfci@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1zkRLC3htLz5oiM-dUieAoCTYqgavHUc8ly_br_VQaeo/edit)
-
 - ⚡ Fun fact **I Love playing Ping Pong.**
 
 <h3 align="left">Connect with me:</h3>
